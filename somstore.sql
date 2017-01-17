@@ -17,7 +17,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `somstore`
+-- Database: `eCommerce`
 --
 
 -- --------------------------------------------------------
@@ -412,7 +412,7 @@ CREATE TABLE `warehouse` (
 INSERT INTO `warehouse` (`Warehouse_ID`, `Country`, `City`, `Address`, `PostalCode`, `Email`, `Warehouse`) VALUES
 (7, '', 'Hargeisa', 'Hargeisa', 'Hr103', 'dollarstore@dollor.com', 'Som Food Stuff'),
 (8, '', 'Hargeisa', 'Hargeisa', 'Hr202', 'ominco@omar.com', 'Som Bavarages'),
-(9, '', 'Arabsiyo', 'Arabsiyo', 'Ar271', 'somstore@somestore.com', 'Som Home Staff'),
+(9, '', 'Arabsiyo', 'Arabsiyo', 'Ar271', 'eCommerce@eCommerce.com', 'Som Home Staff'),
 (10, '', 'Hargeisa', 'Hargeisa', 'Hr302', 'nation@gmail.com', 'Som Clothes');
 
 --
